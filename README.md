@@ -6,21 +6,21 @@ I build the data layer that sits behind decisions. 4 years at Amazon on fraud de
 
 ## 📂 Projects
 
-### 🔍 [Fraud Detection Pipeline](./project1_fraud_detection)
+### 🔍 [Fraud Detection Pipeline](https://github.com/nithinvenkatesh-bit/data-analytics-portfolio/tree/main/project1_fraud_detection)
 End-to-end fraud detection on 284K+ credit card transactions. Statistical threshold tuning reduces false positives by ~20%. Includes production-style SQL for KPI tracking, SLA compliance, and threshold drift detection.
 
 `Python` `Scikit-learn` `SQL` `Random Forest` `Threshold Tuning`
 
 ---
 
-### 👥 [Customer Segmentation — K-Means + PCA](./project2_customer_segmentation)
+### 👥 [Customer Segmentation — K-Means + PCA](https://github.com/nithinvenkatesh-bit/data-analytics-portfolio/tree/main/project2_customer_segmentation)
 Segments 4,300+ retail customers using RFM feature engineering and K-Means clustering. Optimal K selected via Elbow + Silhouette analysis. Segments validated with PCA and translated into revenue-backed business recommendations.
 
 `Python` `K-Means` `PCA` `RFM` `Tableau`
 
 ---
 
-### 📊 [E-Commerce SQL Analytics](./project3_sql_analytics)
+### 📊 [E-Commerce SQL Analytics](https://github.com/nithinvenkatesh-bit/data-analytics-portfolio/tree/main/project3_sql_analytics)
 Conversion funnel analysis, monthly cohort retention matrix, A/B test framework with Z-test significance in SQL, and weekly KPI queries. Exports clean CSVs for Tableau Public dashboard.
 
 `SQL` `Python` `Cohort Analysis` `A/B Testing` `Tableau`
